@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+            <item >int</item>
+            <item >Middle Right</item>
+            <item >Lower Right</item>
+            <item >Upper Left</item>
+            <item >Middle Left</item>
+            <item >Lower Left</item>
+        </string-array>
+</resources>
